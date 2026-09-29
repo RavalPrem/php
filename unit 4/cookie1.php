@@ -1,7 +1,7 @@
 <?php
     if(isset($_POST['for_cookie'])) {
         $fname = $_POST['user_name'];
-        setcookie('firstName',$fname,time() + 25);
+        setcookie('firstName',$fname,time() + 1000);
     }
 ?>
 
