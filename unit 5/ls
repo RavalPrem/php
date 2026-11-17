@@ -1,0 +1,3 @@
+defining Inter Cluster distance/similarity. Some of them are: Min Distance: Find the minimum distance between any two points of the cluster. Max Distance: Find the maximum distance between any two points of the cluster. Group Average: Find the average distance between every two points of the clusters. Ward’s Method: The similarity of two clusters is based on the increase in
+
+The figure above shows a data set with clustering algorithms: K-Means and Hierarchical handling compact, spherical clusters with varying noise tolerance, while DBSCAN manages arbitrary-shaped clusters and excels in noise hand
